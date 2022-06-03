@@ -1,0 +1,37 @@
+[
+  {
+    "type": "Food",
+    "items": [
+      {
+        "name": "Sashimi",
+        "price": 22,
+        "imgUrl": "https://i.ytimg.com/vi/TgoN7bsTFmU/maxresdefault.jpg"
+      },
+      {
+        "name": "Unagi - Grilled Eel",
+        "price": 30,
+        "imgUrl": "https://savorjapan.com/gg/content_image/t0313_006.jpg"
+      },
+      {
+        "name": "Soba - Buckwheat Noodels",
+        "price": 15,
+        "imgUrl": "https://lawrenceparkhealth.com/wp-content/uploads/2017/11/soba-noodles.jpg"
+      },
+      {
+        "name": "Onigiri - Rice Balls",
+        "price": 20,
+        "imgUrl": "https://i.ytimg.com/vi/rFyfPvo97XQ/maxresdefault.jpg"
+      },
+      {
+        "name": "Yakitori - Grilled Chicken",
+        "price": 35,
+        "imgUrl": "https://www.seriouseats.com/thmb/IXxaaiuP30L99zMNc-h_bSBPSws=/1500x844/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__2016__06__20160606-yakitori-negima-12-844a26164b35434a80973412bb9ee8b8.jpg"
+      },
+      {
+        "name": "Miso Soup",
+        "price": 10,
+        "imgUrl": "https://resources.matcha-jp.com/resize/720x2000/2020/04/05-100883.jpeg"
+      }
+    ]
+  }
+]
