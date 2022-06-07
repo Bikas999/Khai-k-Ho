@@ -48,7 +48,7 @@ img {
   fill: #fff;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 500px) {
   .sidebar {
     width: 100%;
     position: relative;

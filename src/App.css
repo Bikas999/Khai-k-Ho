@@ -1,14 +1,23 @@
 .app {
   background-color: hsl(240, 45%, 98%);
 }
+.sidebar-container {
+  width: 120px;
+  height: 100vh;
+}
 
 .content {
   display: flex;
   align-items: flex-start;
 }
 
-@media (max-width: 708px) {
+@media (max-width: 500px) {
   .content {
     flex-direction: column;
+  }
+
+  .sidebar-container {
+    width: 100%;
+    height: auto;
   }
 }

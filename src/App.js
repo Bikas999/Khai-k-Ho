@@ -15,7 +15,10 @@ function App() {
     <div className="app">
       <Header />
       <div className="content">
-        <Sidebar />
+        <div className="sidebar-container">
+          <Sidebar />
+        </div>
+
         <Routes>
           <Route path="/" element={<Items />} />
           <Route path="/edit" element={<EditProduct />} />
